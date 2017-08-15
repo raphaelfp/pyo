@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp", "MyoSharp\MyoSharp.csproj", "{B075C7E9-FE48-4508-B44C-1A259BCC8B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.ConsoleSample", "MyoSharp.ConsoleSample\MyoSharp.ConsoleSample.csproj", "{27DA6BB8-8526-437E-9293-A877FC175653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.Tests.Unit", "MyoSharp.Tests.Unit\MyoSharp.Tests.Unit.csproj", "{1BAD8167-FEB9-4088-9DDD-D1946C464489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.EmgVisualization", "MyoSharp.EmgVisualization\MyoSharp.EmgVisualization.csproj", "{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.Pyo", "MyoSharp.Pyo\MyoSharp.Pyo.csproj", "{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.Util", "MyoSharp.Util\MyoSharp.Util.csproj", "{044D1877-9468-484D-870E-0129CB4ADDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Debug|x86.Build.0 = Debug|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B075C7E9-FE48-4508-B44C-1A259BCC8B22}.Release|x86.ActiveCfg = Release|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Debug|x86.Build.0 = Debug|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|x86.ActiveCfg = Release|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAD8167-FEB9-4088-9DDD-D1946C464489}.Release|x86.ActiveCfg = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|x86.ActiveCfg = Release|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Debug|x86.Build.0 = Debug|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Release|x86.ActiveCfg = Release|Any CPU
+		{9CDD84BB-3A33-4FB0-95C7-054AD6A80365}.Release|x86.Build.0 = Release|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Debug|x86.Build.0 = Debug|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Release|x86.ActiveCfg = Release|Any CPU
+		{044D1877-9468-484D-870E-0129CB4ADDE3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://raphaelfp.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MyoSharp.ConsoleSample\\MyoSharp.ConsoleSample.csproj
+		SccProjectName1 = MyoSharp.ConsoleSample
+		SccLocalPath1 = MyoSharp.ConsoleSample
+		SccProjectUniqueName2 = MyoSharp\\MyoSharp.csproj
+		SccProjectName2 = MyoSharp
+		SccLocalPath2 = MyoSharp
+		SccProjectUniqueName3 = MyoSharp.EmgVisualization\\MyoSharp.EmgVisualization.csproj
+		SccProjectName3 = MyoSharp.EmgVisualization
+		SccLocalPath3 = MyoSharp.EmgVisualization
+		SccProjectUniqueName4 = MyoSharp.Tests.Unit\\MyoSharp.Tests.Unit.csproj
+		SccProjectName4 = MyoSharp.Tests.Unit
+		SccLocalPath4 = MyoSharp.Tests.Unit
+		SccProjectUniqueName5 = MyoSharp.Pyo\\MyoSharp.Pyo.csproj
+		SccProjectName5 = MyoSharp.Pyo
+		SccLocalPath5 = MyoSharp.Pyo
+		SccProjectUniqueName6 = MyoSharp.Util\\MyoSharp.Util.csproj
+		SccProjectName6 = MyoSharp.Util
+		SccLocalPath6 = MyoSharp.Util
+	EndGlobalSection
+EndGlobal
