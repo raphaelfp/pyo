@@ -6,7 +6,7 @@ One of the main goals of the assignment was to build an app for people with some
 
 The app uses the [MyoSharp Library](https://www.codeproject.com/Articles/826194/Controlling-a-Myo-Armband-with-Csharp) and it was updated to .NET 4.5.2. The code is in portuguese because it was presented in my college and one of the requirements is that it should be written in portuguese. I live in Brazil =)
 
-![Pyo](https://raw.githubusercontent.com/raphaelfp/pyo/master/pyo.jpg)
+![Pyo](https://raw.githubusercontent.com/raphaelfp/pyo/master/Pyo.jpg)
 
 ## Myo
 
