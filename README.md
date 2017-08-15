@@ -1,6 +1,6 @@
 # Pyo
 
-Pyo is an application I built with one friend for an assignment in my third year in college. It's a Paint like app built with C#/.NET and Windows Forms that uses the [Myo armband](https://www.myo.com/) instead of a mouse and a keyboard.
+Pyo is an application I built with a friend for an assignment in my third year in college. It's a Paint like app built with C#/.NET and Windows Forms that uses the [Myo armband](https://www.myo.com/) instead of a mouse and a keyboard.
 
 One of the main goals of the assignment was to build an app for people with some types of disabilities, people without a hand or part of it. But it also can be used by people without disabilities.
 
@@ -21,7 +21,6 @@ The [Myo armband](https://www.myo.com/) is a gesture recognition device worn on 
 
 ## Controls
 
-----------------------------------------------------------------
 | Tab option    | Myo Pose        | Description                |
 | ------------- | --------------- | -------------------------- |
 | Global        | Fingers Spread  | Change the selected option |
@@ -36,6 +35,5 @@ The [Myo armband](https://www.myo.com/) is a gesture recognition device worn on 
 | Shape         | Double tap      | Draw a point               |
 | Brush size    | Wave in         | Increases the brush size   |
 | Brush size    | Wave out        | Decreases the brush size   |
-----------------------------------------------------------------
 
 The original code was written in 2015, I'm just migrating all my repos from VSTS to Github, so they are shared publicly.
