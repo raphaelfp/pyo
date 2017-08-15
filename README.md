@@ -1,6 +1,6 @@
 # Pyo
 
-Pyo is an application I built for an assignment in my third year in college with one friend. It's a Paint like app built with C#/.NET and Windows Forms that uses the [Myo armband](https://www.myo.com/) instead of a mouse and a keyboard.
+Pyo is an application I built with one friend for an assignment in my third year in college. It's a Paint like app built with C#/.NET and Windows Forms that uses the [Myo armband](https://www.myo.com/) instead of a mouse and a keyboard.
 
 One of the main goals of the assignment was to build an app for people with some types of disabilities, people without a hand or part of it. But it also can be used by people without disabilities.
 
