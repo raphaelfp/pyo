@@ -36,4 +36,4 @@ The [Myo armband](https://www.myo.com/) is a gesture recognition device worn on 
 | Brush size    | Wave in         | Increases the brush size   |
 | Brush size    | Wave out        | Decreases the brush size   |
 
-The original code was written in 2015, I'm just migrating all my repos from VSTS to Github, so they are shared publicly.
+The original code was written in 2015, I'm just migrating all my repos from VSTS to Github. =)
